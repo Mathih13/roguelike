@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "Name": "Goblin",
+      "Description": "Reee",
+      "ImageName": "colored_transparent_120",
+      "Strength": 8,
+      "Dexterity": 14,
+      "Constitution": 10,
+      "Intelligence": 10,
+      "Wisdom": 8,
+      "Charisma": 8,
+      "HP": 7
+    },
+    {
+      "Name": "Hobgoblin",
+      "Description": "Reee",
+      "ImageName": "colored_transparent_121",
+      "Strength": 13,
+      "Dexterity": 12,
+      "Constitution": 12,
+      "Intelligence": 10,
+      "Wisdom": 10,
+      "Charisma": 9,
+      "HP": 11
+    },
+    {
+      "Name": "Goblin Shaman",
+      "Description": "Reee",
+      "ImageName": "colored_transparent_122",
+      "Strength": 10,
+      "Dexterity": 10,
+      "Constitution": 10,
+      "Intelligence": 10,
+      "Wisdom": 14,
+      "Charisma": 11,
+      "HP": 9
+    }
+  ]
+}

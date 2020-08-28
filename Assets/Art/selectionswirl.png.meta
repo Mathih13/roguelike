@@ -1,0 +1,2107 @@
+fileFormatVersion: 2
+guid: 148a2d17bd7a2f24485aac40f9906547
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5364701110496438275
+    second: selectionswirl_0
+  - first:
+      213: 5513246264297475289
+    second: selectionswirl_1
+  - first:
+      213: 8887547364666671853
+    second: selectionswirl_2
+  - first:
+      213: -4881685576321443913
+    second: selectionswirl_3
+  - first:
+      213: 6221510021102003167
+    second: selectionswirl_4
+  - first:
+      213: -5588886452292101266
+    second: selectionswirl_5
+  - first:
+      213: -5285871382622492108
+    second: selectionswirl_6
+  - first:
+      213: -1276107781935607677
+    second: selectionswirl_7
+  - first:
+      213: 5611132723635193431
+    second: selectionswirl_8
+  - first:
+      213: 390337502936444697
+    second: selectionswirl_9
+  - first:
+      213: 6130391787241895767
+    second: selectionswirl_10
+  - first:
+      213: -5643562142749676838
+    second: selectionswirl_11
+  - first:
+      213: -5407271343829152262
+    second: selectionswirl_12
+  - first:
+      213: 6941326225657189284
+    second: selectionswirl_13
+  - first:
+      213: -5382082908996828086
+    second: selectionswirl_14
+  - first:
+      213: -5563076609280909504
+    second: selectionswirl_15
+  - first:
+      213: -2457340500677327436
+    second: selectionswirl_16
+  - first:
+      213: 7457268911680007126
+    second: selectionswirl_17
+  - first:
+      213: -7321467415930451004
+    second: selectionswirl_18
+  - first:
+      213: -933870769414132938
+    second: selectionswirl_19
+  - first:
+      213: -2885492442635527552
+    second: selectionswirl_20
+  - first:
+      213: -2407550690768983209
+    second: selectionswirl_21
+  - first:
+      213: 5670439404845920739
+    second: selectionswirl_22
+  - first:
+      213: -8769047855793538365
+    second: selectionswirl_23
+  - first:
+      213: 850596212495320364
+    second: selectionswirl_24
+  - first:
+      213: 491864059017140134
+    second: selectionswirl_25
+  - first:
+      213: -1167429993643719655
+    second: selectionswirl_26
+  - first:
+      213: 1902784091808326961
+    second: selectionswirl_27
+  - first:
+      213: -7246394476623909921
+    second: selectionswirl_28
+  - first:
+      213: 806822428380519853
+    second: selectionswirl_29
+  - first:
+      213: -3071787430027975733
+    second: selectionswirl_30
+  - first:
+      213: -7026944361778526879
+    second: selectionswirl_31
+  - first:
+      213: -4719077559476235812
+    second: selectionswirl_32
+  - first:
+      213: 9195808677581961692
+    second: selectionswirl_33
+  - first:
+      213: -5412345695699932902
+    second: selectionswirl_34
+  - first:
+      213: 5223734635321171818
+    second: selectionswirl_35
+  - first:
+      213: 3700456661746139686
+    second: selectionswirl_36
+  - first:
+      213: -6149915987513680432
+    second: selectionswirl_37
+  - first:
+      213: 6975469600463689405
+    second: selectionswirl_38
+  - first:
+      213: 2934538576817063031
+    second: selectionswirl_39
+  - first:
+      213: 3874183427429133992
+    second: selectionswirl_40
+  - first:
+      213: -5748058493683893013
+    second: selectionswirl_41
+  - first:
+      213: -3484489069603785398
+    second: selectionswirl_42
+  - first:
+      213: 3520541818409016125
+    second: selectionswirl_43
+  - first:
+      213: 4875194626609955819
+    second: selectionswirl_44
+  - first:
+      213: 316253918153460944
+    second: selectionswirl_45
+  - first:
+      213: 5197219162106005968
+    second: selectionswirl_46
+  - first:
+      213: -8187025095713699582
+    second: selectionswirl_47
+  - first:
+      213: 4770076634414620529
+    second: selectionswirl_48
+  - first:
+      213: -5682744058598115970
+    second: selectionswirl_49
+  - first:
+      213: -7826450839226720531
+    second: selectionswirl_50
+  - first:
+      213: 2128013666707690835
+    second: selectionswirl_51
+  - first:
+      213: -2207423964770203194
+    second: selectionswirl_52
+  - first:
+      213: 1417438168696436655
+    second: selectionswirl_53
+  - first:
+      213: 7660215466694706097
+    second: selectionswirl_54
+  - first:
+      213: 7660062597788783097
+    second: selectionswirl_55
+  - first:
+      213: -1825460972024608030
+    second: selectionswirl_56
+  - first:
+      213: -3834844429663921017
+    second: selectionswirl_57
+  - first:
+      213: 7461362219978256029
+    second: selectionswirl_58
+  - first:
+      213: 7887430951915726207
+    second: selectionswirl_59
+  - first:
+      213: -8520370335199010839
+    second: selectionswirl_60
+  - first:
+      213: 6336988834768634036
+    second: selectionswirl_61
+  - first:
+      213: 2561803789555462589
+    second: selectionswirl_62
+  - first:
+      213: 474188363085755827
+    second: selectionswirl_63
+  - first:
+      213: 2820110080200605755
+    second: selectionswirl_64
+  - first:
+      213: -8145964645368935260
+    second: selectionswirl_65
+  - first:
+      213: -6671661000269401432
+    second: selectionswirl_66
+  - first:
+      213: -1035895843182636970
+    second: selectionswirl_67
+  - first:
+      213: -4568032949666265158
+    second: selectionswirl_68
+  - first:
+      213: 7092492000471820575
+    second: selectionswirl_69
+  - first:
+      213: -6488028403667939810
+    second: selectionswirl_70
+  - first:
+      213: -3923341475139521279
+    second: selectionswirl_71
+  - first:
+      213: 6412619893309922128
+    second: selectionswirl_72
+  - first:
+      213: 8778215960592446094
+    second: selectionswirl_73
+  - first:
+      213: -8873427117700138834
+    second: selectionswirl_74
+  - first:
+      213: 8618632230013733173
+    second: selectionswirl_75
+  - first:
+      213: -2381104874519707310
+    second: selectionswirl_76
+  - first:
+      213: -3227900330176449614
+    second: selectionswirl_77
+  - first:
+      213: 1495680167973992007
+    second: selectionswirl_78
+  - first:
+      213: -7878747558828551635
+    second: selectionswirl_79
+  - first:
+      213: -5397763757070768804
+    second: selectionswirl_80
+  - first:
+      213: -7765332272039913916
+    second: selectionswirl_81
+  - first:
+      213: 9200843057574452660
+    second: selectionswirl_82
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: selectionswirl_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 782
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df757be63c0cc85b0800000000000000
+      internalID: -5364701110496438275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 782
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc43b6544cf28c40800000000000000
+      internalID: 5513246264297475289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 782
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de28a6b6d39e65b70800000000000000
+      internalID: 8887547364666671853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 782
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7563625d4c04cb0800000000000000
+      internalID: -4881685576321443913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_4
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 782
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd36156b66e375650800000000000000
+      internalID: 6221510021102003167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_5
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 782
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bd22102694072b0800000000000000
+      internalID: -5588886452292101266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 747
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a2266bbffc4a6b0800000000000000
+      internalID: -5285871382622492108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 747
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380dd92cbba5a4ee0800000000000000
+      internalID: -1276107781935607677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 747
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75688dbab7fbedd40800000000000000
+      internalID: 5611132723635193431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_9
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 747
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f2a0d04e1ca6500800000000000000
+      internalID: 390337502936444697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_10
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 747
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757768ca9d6831550800000000000000
+      internalID: 6130391787241895767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_11
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 747
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada209dc12a0ea1b0800000000000000
+      internalID: -5643562142749676838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 642
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd0aea9c5385f4b0800000000000000
+      internalID: -5407271343829152262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 642
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3566eec6b845060800000000000000
+      internalID: 6941326225657189284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 642
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a440b891c100f45b0800000000000000
+      internalID: -5382082908996828086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_15
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 642
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fd68d5c4bfbc2b0800000000000000
+      internalID: -5563076609280909504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_16
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 642
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b582fc85d5c5edd0800000000000000
+      internalID: -2457340500677327436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 646
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db204b909a8d7760800000000000000
+      internalID: 7457268911680007126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_18
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 647
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb4ede0d2ce46a90800000000000000
+      internalID: -7321467415930451004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 607
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b23faab793a03f0800000000000000
+      internalID: -933870769414132938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 606
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a92a259eba4f7d0800000000000000
+      internalID: -2885492442635527552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_21
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 602
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75be7f90769a69ed0800000000000000
+      internalID: -2407550690768983209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_22
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 598
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1f73e689271be40800000000000000
+      internalID: 5670439404845920739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 594
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca76018f651e4680800000000000000
+      internalID: -8769047855793538365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_24
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 594
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c258315afbcedcb00800000000000000
+      internalID: 850596212495320364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_25
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 594
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a79f7371c373d600800000000000000
+      internalID: 491864059017140134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 510
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914cab82b947ccfe0800000000000000
+      internalID: -1167429993643719655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_27
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 509
+        width: 58
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135ef74dc0c086a10800000000000000
+      internalID: 1902784091808326961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_28
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 506
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbaa76dd92af6b90800000000000000
+      internalID: -7246394476623909921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_29
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 502
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad507059b8623b00800000000000000
+      internalID: 806822428380519853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_30
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 498
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc32caf7b91de55d0800000000000000
+      internalID: -3071787430027975733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_31
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 492
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165c1c355574b7e90800000000000000
+      internalID: -7026944361778526879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_32
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 487
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1d6ef56f7728eb0800000000000000
+      internalID: -4719077559476235812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_33
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 493
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd93ab155431e9f70800000000000000
+      internalID: 9195808677581961692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 455
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19e03ef34c73e4b0800000000000000
+      internalID: -5412345695699932902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_35
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 453
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f193b69fe6e7840800000000000000
+      internalID: 5223734635321171818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_36
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 450
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6224b1e5ab9aa5330800000000000000
+      internalID: 3700456661746139686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_37
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 447
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd50c53efb17aaa0800000000000000
+      internalID: -6149915987513680432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_38
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 446
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db69c2dd4a8ddc060800000000000000
+      internalID: 6975469600463689405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_39
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 446
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7748cdaa94399b820800000000000000
+      internalID: 2934538576817063031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_40
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 446
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae6e9a0d4dd3c530800000000000000
+      internalID: 3874183427429133992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_41
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 306
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becfdc7214bca30b0800000000000000
+      internalID: -5748058493683893013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 340
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45f88e17ab94afc0800000000000000
+      internalID: -3484489069603785398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_43
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 309
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b5d27912a7bd030800000000000000
+      internalID: 3520541818409016125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 334
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3caf9deab28a340800000000000000
+      internalID: 4875194626609955819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_45
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 312
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dccc52534f836400800000000000000
+      internalID: 316253918153460944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_46
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 326
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d98e29ba4b302840800000000000000
+      internalID: 5197219162106005968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_47
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 315
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209c6ca5d08d16e80800000000000000
+      internalID: -8187025095713699582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_48
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 319
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f9ca11d67b23240800000000000000
+      internalID: 4770076634414620529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_49
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 315
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e753ccd1366d221b0800000000000000
+      internalID: -5682744058598115970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_50
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 312
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee55d39d6cd26390800000000000000
+      internalID: -7826450839226720531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_51
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 307
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355d949b729388d10800000000000000
+      internalID: 2128013666707690835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_52
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 302
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c900377997ad51e0800000000000000
+      internalID: -2207423964770203194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 154
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa73b382180cba310800000000000000
+      internalID: 1417438168696436655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 153
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b38a43a16d8e4a60800000000000000
+      internalID: 7660215466694706097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_55
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 146
+        width: 103
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1d47219520e4a60800000000000000
+      internalID: 7660062597788783097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_56
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 150
+        width: 101
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea422beae8aaa6e0800000000000000
+      internalID: -1825460972024608030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_57
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 146
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c1ff02f45e7cac0800000000000000
+      internalID: -3834844429663921017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_58
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 143
+        width: 99
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee25638651c8760800000000000000
+      internalID: 7461362219978256029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_59
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 151
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75ab5f49a8c57d60800000000000000
+      internalID: 7887430951915726207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 147
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efdfafa25091c980800000000000000
+      internalID: -8520370335199010839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_61
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0400a35c181f750800000000000000
+      internalID: 6336988834768634036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_62
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 143
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1f3bc39fa5d8320800000000000000
+      internalID: 2561803789555462589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_63
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 141
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5b95acdc7a49600800000000000000
+      internalID: 474188363085755827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_64
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 131
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b300bd52d2b032720800000000000000
+      internalID: 2820110080200605755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_65
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 140
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acc4ef6058b3fe80800000000000000
+      internalID: -8145964645368935260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 12
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a27d111baf7963a0800000000000000
+      internalID: -6671661000269401432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_67
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 123
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6509bc21832cf91f0800000000000000
+      internalID: -1035895843182636970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 123
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7ccd81c361b90c0800000000000000
+      internalID: -4568032949666265158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_69
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 123
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f192c6495e79d6260800000000000000
+      internalID: 7092492000471820575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_70
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 280
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e4ababa84e5f5a0800000000000000
+      internalID: -6488028403667939810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_71
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 16
+        width: 95
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10570c117bd7d89c0800000000000000
+      internalID: -3923341475139521279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_72
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 73
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b575441d33ef850800000000000000
+      internalID: 6412619893309922128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_73
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 77
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82f6cc38ec72d970800000000000000
+      internalID: 8778215960592446094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_74
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 70
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea83a25cc014bd480800000000000000
+      internalID: -8873427117700138834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_75
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 74
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53983b789588b9770800000000000000
+      internalID: 8618632230013733173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_76
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 71
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2514d457bbd94fed0800000000000000
+      internalID: -2381104874519707310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_77
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 22
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3777970c13433d0800000000000000
+      internalID: -3227900330176449614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_78
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 30
+        width: 75
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746bfa53039b1c410800000000000000
+      internalID: 1495680167973992007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_79
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d225c01b6d019a290800000000000000
+      internalID: -7878747558828551635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_80
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55a156267a4715b0800000000000000
+      internalID: -5397763757070768804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_81
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4461f2ae07ffb3490800000000000000
+      internalID: -7765332272039913916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectionswirl_82
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd18d04306ffaf70800000000000000
+      internalID: 9200843057574452660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

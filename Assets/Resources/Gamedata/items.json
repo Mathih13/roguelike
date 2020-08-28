@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "Name": "Club",
+      "Description": "When all else fails, smacking them with *something* is better than nothing",
+      "ImageName": "colored_transparent_129",
+      "Type": "weapon",
+      "Proficiency": 0,
+      "DamageDice": 5
+    },
+    {
+      "Name": "Greatclub",
+      "Description": "An even *bigger* stick .That should do it.",
+      "ImageName": "colored_transparent_129",
+      "Type": "weapon",
+      "Proficiency": 0,
+      "DamageDice": 3
+    },
+    {
+      "Name": "Mace",
+      "Description": "The thinking mans club.",
+      "ImageName": "colored_transparent_129",
+      "Type": "weapon",
+      "Proficiency": 0,
+      "DamageDice": 4
+    },
+    {
+      "Name": "Spear",
+      "Description": "The ancient companion of warrior and hunter alike",
+      "ImageName": "colored_transparent_129",
+      "Type": "weapon",
+      "Proficiency": 0,
+      "DamageDice": 4
+    },
+    {
+      "Name": "Greatsword",
+      "Description": "When success is measured in length of metal, a greatsword does the job!",
+      "ImageName": "colored_transparent_322",
+      "Type": "weapon",
+      "Proficiency": 1,
+      "DamageDice": 4
+    },
+    {
+      "Name": "Leather Armor",
+      "Description": "Comfortable leather padding. Won't stop anything too sharp, but at least it's comfortable to move in",
+      "ImageName": "colored_transparent_79",
+      "Type": "armor",
+      "Proficiency": 0,
+	  "ArmorClass": 11,
+	  "AllowDexBonus": true,
+	  "MaxDexBonus": 0
+    },
+	{
+      "Name": "Chain Shirt",
+      "Description": "Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest Protection to the wearer's upper body.",
+      "ImageName": "colored_transparent_80",
+      "Type": "armor",
+      "Proficiency": 1,
+	  "ArmorClass": 13,
+	  "AllowDexBonus": true,
+	  "MaxDexBonus": 2
+    },
+    {
+      "Name": "Dagger",
+      "Description": "Remember: stab, don't slash.",
+      "ImageName": "colored_transparent_323",
+      "Type": "weapon",
+      "Proficiency": 0,
+      "DamageDice": 5
+    }
+  ]
+}

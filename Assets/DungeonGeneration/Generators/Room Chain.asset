@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a95d519d1d57044e8f6ca7e59fa6d76, type: 3}
+  m_Name: Room Chain
+  m_EditorClassIdentifier: 
+  overwriteFilledSpaces: 1
+  generatesEmptySpace: 1
+  minimumGeneratedRooms: 15
+  maximumGeneratedRooms: 20
+  roomSizeX: 10
+  roomSizeY: 10
+  startRoomList: {fileID: 11400000, guid: d675728faa69cc4408039aa55d86791a, type: 2}
+  placeCustomEndRoom: 0
+  endRoomList: {fileID: 0}
+  hasSouthExit: {fileID: 11400000, guid: 2921660ae24032e4bb75535e6a8db644, type: 2}
+  hasNorthExit: {fileID: 11400000, guid: 0675e0ae59223ec46bf98a20c3361cb6, type: 2}
+  hasEastExit: {fileID: 11400000, guid: fc8181d4a48af31418c60f853f053e9a, type: 2}
+  hasWestExit: {fileID: 11400000, guid: b92cb55aaed758142bd06abb128efe35, type: 2}
+  pickStartPositionFromList: 0
+  startPositions: []
+  destroyRoomChainHolderOnCompletion: 1
+  fillEmptySpaceWithRandomRooms: 0
+  randomFillRoomList: {fileID: 0}

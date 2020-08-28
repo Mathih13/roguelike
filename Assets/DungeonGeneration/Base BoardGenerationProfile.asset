@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fb54412e0f82da4caf22151b67a0b98, type: 3}
+  m_Name: Base BoardGenerationProfile
+  m_EditorClassIdentifier: 
+  seedValue: bjarne
+  boardHorizontalSize: 100
+  boardVerticalSize: 100
+  unityTileSizeInWorldspace: 1
+  boardLibrary: {fileID: 11400000, guid: a3747c9cf449cfd49a436d462ff4662e, type: 2}
+  generators:
+  - {fileID: 11400000, guid: edfec007da73a3746b30715566c12f5f, type: 2}
+  - {fileID: 11400000, guid: dac6d7d28202fd24b9ee493345a0cb36, type: 2}
+  - {fileID: 11400000, guid: 933b43d472733f8408e7dd332f0b49f0, type: 2}
+  - {fileID: 11400000, guid: 0805c9a5689225e42ae832e32dabacc9, type: 2}
+  - {fileID: 11400000, guid: 3941193bae4d66d43a594f1e66314796, type: 2}
+  - {fileID: 11400000, guid: 190abfcabec3b23479e496f0545fdbab, type: 2}
+  - {fileID: 11400000, guid: 506e41de1efda1346b73cee6ee071804, type: 2}
+  - {fileID: 11400000, guid: ff42d1aec93849044a84f798b4db419f, type: 2}
